@@ -1,4 +1,4 @@
-# CSE Git Attendance 2025
+# CSE Git Attendance
 
 ## So we can *Git* to know you, and you can *Git* to know Git
 
@@ -10,7 +10,7 @@ Welcome to the CSE Club's attendance repository! This is a fun little way to get
 
 1. [Fork and clone this repository](#forking-and-cloning-the-repository).
 2. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
-3. Create a new file inside the folder named `<first>_<last>`
+3. Create a new file inside the folder named `first_last`
 4. In the file, answer the Question of the Week listed in the folder's `README.md`.
 5. [Add, commit, and push](#6-basic-git-commands) your changes to your local fork.
 6. Create a pull request for us to review and merge into the main repository by clicking the "New Pull Request" button in the top
@@ -34,6 +34,7 @@ right corner of the repository.
 
 Follow these steps to setup and get the repository on your local machine. Note, there are no Linux instructions; if you're on Linux, you don't need to
 follow this guide. There are also several hyperlinks to documentation to provide additional context to better your understanding throughout the process.
+Here's a vid if you're not reading all that: https://youtu.be/70tCpNEyR8A
 
 ### 1. Getting a terminal
 
@@ -102,7 +103,7 @@ In Windows it it usually C:\Users\<Your_Name>\git-attendance-2025.
 In Mac and Linux it is /home/<Your_Name>/git-attendence-2025.
 
 4. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
-5. Create a new file inside the folder named `<first>_<last>`
+5. Create a new file inside that week's folder named `<first>_<last>` (your name).
 6. In the file, answer the Question of the Week listed in the folder's `README.md`.
 
 ## 6. Basic Git Commands
